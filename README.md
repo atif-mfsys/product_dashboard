@@ -1,16 +1,28 @@
 # flutter_product_dashboard
 
-A new Flutter project.
+flutter pub get
+flutter run -d chrome
+lib/
+ ├── core/
+ ├── features/
+ │   └── product/
+ │       ├── data/
+ │       ├── domain/
+ │       ├── presentation/
+ │       │   ├── blocs/
+ │       │   ├── pages/
+ │       │   ├── widgets/
+ │       └── models/
+ └── main.dart
 
-## Getting Started
+flutter_bloc
+go_router
+uuid
+http (for mock API)
+equatable
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Pagination
+Sorting
+Light/Dark Theme Switch
+Mock Authentication
+Responsive Web Layout
