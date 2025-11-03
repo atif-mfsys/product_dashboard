@@ -1,0 +1,6 @@
+[
+    {"id": "p1", "name": "Laptop Pro", "category": "Electronics", "price": 1299.99, "inStock": true},
+    {"id": "p2", "name": "Wireless Mouse", "category": "Accessories", "price": 29.99, "inStock": true},
+    {"id": "p3", "name": "Office Chair", "category": "Furniture", "price": 199.50, "inStock": false},
+    {"id": "p4", "name": "Standing Desk", "category": "Furniture", "price": 399.00, "inStock": true}
+    ]
